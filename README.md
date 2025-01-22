@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @God-Pepe
-- 👀 I’m interested in creating games and other programs in C++
-- 🌱 I’m currently learning C++
-- 📫 How to contact me? Idk
-- ⚡ Fun fact: I don't know what to write here
+I don't know what to write here
 
 <!---
 God-Pepe/God-Pepe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
